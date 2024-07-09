@@ -146,13 +146,12 @@ header.shadow .logo {
     color: #111;
     font-size: 2rem;
     margin-bottom: 10px;
-    text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.452);
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.452);
 }
 
 .title-text {
     color: #111;
     font-size: 1em;
-    text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.452);
 }
 
 .about .imgBx {
@@ -271,6 +270,7 @@ header.shadow .logo {
     object-fit: cover;
     object-position: center;
     border: 2px solid var(--second-color);
+    cursor: pointer;
 }
 
 .profile-name {
